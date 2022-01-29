@@ -14,6 +14,6 @@ HOW TO GET THE BOT ONLINE
 6. Add a new file named ".replit" without the quotation marks, inside put the following: run = "npm start"
 7. Edit the index.js file to fit what your bot will do, learn how to use it and make your own bot out of it.
 8. Press run.
-9. Create a free account at https://uptimerobot.com/ and add your bot's replit link to as a monitor set to check every 25 minutes.
+9. Create a free account at https://uptimerobot.com/ and add your bot's replit link to a new a monitor set to check every 25 minutes.
 your bots replit link will look something like: https://projectname.accountusername.repl.co/. You can find this above the console window in replit after running the
 project successfully.
