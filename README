@@ -17,3 +17,5 @@ HOW TO GET THE BOT ONLINE
 9. Create a free account at https://uptimerobot.com/ and add your bot's replit link to a new a monitor set to check every 25 minutes.
 your bots replit link will look something like: https://projectname.accountusername.repl.co/. You can find this above the console window in replit after running the
 project successfully.
+
+NOTE: ANYWHERE IN INDEX.JS WHERE IT SAYS "something.id" like "role.id" YOU WILL HAVE TO REPLACE with the ID. Make sure to go through and do this for the bot to work.
