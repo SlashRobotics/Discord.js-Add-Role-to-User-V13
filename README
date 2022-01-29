@@ -1,1 +1,19 @@
+The code in index.js is the code needed to create a Discord bot that responds to commands and handles roles in both DM and guild channels on the latest version of
+Discord as of 1/29/2022. You are welcome to use the code for whatever purposed you need. Please do not sell the code or use the code to create bots that you will sell.
+This release is for non-profit projects only. If you wish to use this code in any other fashion, please contact me on Discord @Slash#1995 ID:(852806935782883339).
 
+HOW TO GET THE BOT ONLINE
+1. Find a hosting service for your bot, I reccomend replit.com. Create a new project and select node.js. 
+
+2. Go to packages, then install the following;
+   discord.js; node; express; mongoose
+
+3. Create or copy the index.js file and place the code inside.
+4. Go to secrets (Environment variables), set the key as 'token' without the quotation marks and the value as your Discord bot's token from the discord developer portal
+5. Click add new secret
+6. Add a new file named ".replit" without the quotation marks, inside put the following: run = "npm start"
+7. Edit the index.js file to fit what your bot will do, learn how to use it and make your own bot out of it.
+8. Press run.
+9. Create a free account at https://uptimerobot.com/ and add your bot's replit link to as a monitor set to check every 25 minutes.
+your bots replit link will look something like: https://projectname.accountusername.repl.co/. You can find this above the console window in replit after running the
+project successfully.
